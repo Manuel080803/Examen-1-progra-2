@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\1Q 2025\PROGRA 2\visual studio\ExamenSneyderDuarte\ExamenSneyderDuarte\bin\Debug\ExamenSneyderDuarte.exe.config
+C:\Users\user\Desktop\1Q 2025\PROGRA 2\visual studio\ExamenSneyderDuarte\ExamenSneyderDuarte\bin\Debug\ExamenSneyderDuarte.exe
+C:\Users\user\Desktop\1Q 2025\PROGRA 2\visual studio\ExamenSneyderDuarte\ExamenSneyderDuarte\bin\Debug\ExamenSneyderDuarte.pdb
+C:\Users\user\Desktop\1Q 2025\PROGRA 2\visual studio\ExamenSneyderDuarte\ExamenSneyderDuarte\obj\Debug\ExamenSneyderDuarte.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\1Q 2025\PROGRA 2\visual studio\ExamenSneyderDuarte\ExamenSneyderDuarte\obj\Debug\ExamenSneyderDuarte.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\1Q 2025\PROGRA 2\visual studio\ExamenSneyderDuarte\ExamenSneyderDuarte\obj\Debug\ExamenSneyderDuarte.exe
+C:\Users\user\Desktop\1Q 2025\PROGRA 2\visual studio\ExamenSneyderDuarte\ExamenSneyderDuarte\obj\Debug\ExamenSneyderDuarte.pdb

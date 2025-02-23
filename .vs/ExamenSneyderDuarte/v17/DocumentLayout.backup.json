@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\1Q 2025\\PROGRA 2\\visual studio\\ExamenSneyderDuarte\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5875C73B-C170-478B-B62F-7ADB1C0EB6B5}|ExamenSneyderDuarte\\ExamenSneyderDuarte.csproj|c:\\users\\user\\desktop\\1q 2025\\progra 2\\visual studio\\examensneyderduarte\\examensneyderduarte\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5875C73B-C170-478B-B62F-7ADB1C0EB6B5}|ExamenSneyderDuarte\\ExamenSneyderDuarte.csproj|solutionrelative:examensneyderduarte\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\1Q 2025\\PROGRA 2\\visual studio\\ExamenSneyderDuarte\\ExamenSneyderDuarte\\Program.cs",
+              "RelativeDocumentMoniker": "ExamenSneyderDuarte\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\1Q 2025\\PROGRA 2\\visual studio\\ExamenSneyderDuarte\\ExamenSneyderDuarte\\Program.cs",
+              "RelativeToolTip": "ExamenSneyderDuarte\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIEAAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T16:38:56.773Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
